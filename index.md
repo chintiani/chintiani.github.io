@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Selamat Datang di Webpage Chintia!
 
 You can use the [editor on GitHub](https://github.com/chintiani/chintiani.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
